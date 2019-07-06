@@ -1,0 +1,4 @@
+/[Ll]ibrary/
+*.csproj
+*.sln
+.vs
